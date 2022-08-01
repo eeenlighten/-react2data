@@ -1,0 +1,47 @@
+{
+  "status": "ok",
+  "status_message": "Query was successful",
+  "data": {
+  "count": 1,
+  "number": 1,  
+  "footertxt": [
+      { 
+        "title": "소개",
+        "text1": "아카데미 소개",
+        "text2": "오시는 길"
+      },
+      { 
+        "title": "강의안내",
+        "text1": "개강일정",
+        "text2": "국비과정 NCS",
+        "text3": "일반과정 개강"
+      },
+      { 
+        "title": "컨설팅",
+        "text1": "블랙탑 컨설팅",
+        "text2": "창업센터"
+      },
+      { 
+        "title": "커뮤니티",
+        "text1": "현장스케치",
+        "text2": "공지사항",
+        "text3": "이벤트",
+        "text4": "sns",
+        "text5": "건의함",
+        "text6": "취업지원센터"
+      }
+    ],
+    "footertxt2": [
+      {
+        "title" : "PET ACADEMY",
+        "desc1" : "안녕하세요!",
+        "desc2" : "더 다양한 정보확인",
+        "desc3" : "petacademy@gmail.com", 
+        "image1" : "images/icon1.png", 
+        "image2" : "images/icon2.png", 
+        "image3" : "images/icon3.png", 
+        "image4" : "images/icon4.png", 
+        "image5" : "images/icon5.png" 
+      }
+  ]}
+}

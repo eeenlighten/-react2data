@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "status_message": "Query was successful",
+  "data": {
+  "count": 1,
+  "number": 1,  
+  "slidetxt": [
+    {
+      "text1" : "1",
+      "id" : 0
+    },
+    {
+      "text2" : "2",
+      "id" : 1
+    },
+    {
+      "text3" : "3",
+      "id" : 2
+    },
+    {
+      "text4" : "4",
+      "id" : 3
+    },
+    {
+      "text5" : "자동플레이",
+      "id" : 4
+    },
+    {
+      "text6" : "정지",
+      "id" : 5
+    }
+  ], 
+  "slidetxt2": [
+  {
+    "text7" : "PET ACADEMY",
+    "text8" : "반려동물과 관련한 모든 교육",
+    "text9" : "체계적이고 꼼꼼한 교육으로 성공률 UP!",
+    "text10" : "더 알아보기",
+    "id" : 6
+  }
+  ]}
+}

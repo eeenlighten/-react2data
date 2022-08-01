@@ -1,0 +1,14 @@
+{
+  "status": "ok",
+  "status_message": "Query was successful",
+  "data": {
+  "count": 1,
+  "number": 1,  
+  "textInfor": [
+    {"text": "아카데미소개"},
+    {"text": "전문교육과정"},
+    {"text": "취창업정보"},
+    {"text": "수강후기"},
+    {"text": "고객센터"}
+    ]}
+}

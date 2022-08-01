@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "status_message": "Query was successful",
+  "data": {
+  "count": 1,
+  "number": 1,  
+  "cardtxt": [
+    {
+      "title1": "스킬UP 교육",
+      "title2": "행동교정",
+      "title3": "펫푸드",
+      "title4": "펫미용",
+      "desc" : "국가 대표 최고의 강사진",
+      "desc1" : "우수한 교수진들의 높은 교육 완성도를 자랑합니다.",
+      "text1" : "행동교정",
+      "text2" : "더 자세히 보기" ,
+      "image1" : "images/card01.jpg",
+      "image2" : "images/card02.jpg",
+      "image3" : "images/card03.jpg"
+    }
+  ]}
+}

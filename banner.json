@@ -1,0 +1,17 @@
+{
+  "status": "ok",
+  "status_message": "Query was successful",
+  "data": {
+  "count": 1,
+  "number": 1,  
+  "bannertxt": [
+    {
+      "text1": "배너 영역",
+      "title": "PET ACADEMY",
+      "desc1": "취업과 창업에 강한 PET ACADEMY",
+      "desc2": "소수 정예 교육으로 개인 수준에 따른 맞춤형 교육을 진행합니다.",
+      "text2": "바로 가기",
+      "id": 0
+    }
+  ]}
+}
